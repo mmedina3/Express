@@ -1,0 +1,26 @@
+{
+  "name": "techtonica-projects",
+  "version": "1.0.0",
+  "description": "Simple customer management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "express-validator": "^5.0.2",
+    "mongojs": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmedina3/Recipe-page.git"
+  },
+  "author": "Michelle Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmedina3/Recipe-page/issues"
+  },
+  "homepage": "https://github.com/mmedina3/Recipe-page#readme"
+}
